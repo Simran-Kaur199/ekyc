@@ -1,0 +1,841 @@
+[2024-06-12 21:48:44,266: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-12 21:59:08,925: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-12 21:59:54,751: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-12 22:00:03,638: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-12 22:00:04,036: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-12 22:02:37,784: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-12 22:02:45,396: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-12 22:02:45,762: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-12 22:02:51,838: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-12 22:02:59,939: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-12 22:03:00,316: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-12 22:26:04,647: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-12 22:26:15,416: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-12 22:26:15,806: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-12 23:12:54,980: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-12 23:13:06,479: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-12 23:13:06,961: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 21:36:42,862: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 21:37:08,039: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-14 21:37:09,186: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 21:49:04,169: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 21:49:27,079: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-14 21:49:28,095: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:12:37,365: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:12:59,966: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-14 22:13:01,028: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:16:30,081: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:16:47,441: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-14 22:16:48,220: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:30:12,339: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:30:28,559: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-14 22:30:29,238: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:31:34,123: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:31:50,216: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-14 22:31:51,009: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:32:33,902: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:32:54,951: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-14 22:32:55,833: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:32:55,925: INFO: app]: MySQL database connection established.
+[2024-06-14 22:32:55,936: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:32:55,936: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:32:55,940: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:32:55,940: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:33:08,137: INFO: app]: MySQL database connection established.
+[2024-06-14 22:33:08,137: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:33:08,139: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:33:08,139: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:33:08,142: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:34:19,921: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:34:41,632: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-14 22:34:42,478: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:35:27,980: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:35:47,640: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-14 22:35:48,289: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:35:48,334: INFO: app]: MySQL database connection established.
+[2024-06-14 22:35:48,338: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:35:48,338: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:35:48,338: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:35:48,349: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:36:03,820: INFO: app]: MySQL database connection established.
+[2024-06-14 22:36:03,828: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:36:03,828: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:36:03,830: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:36:03,830: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:40:18,003: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:40:35,213: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-14 22:40:35,897: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:40:35,942: INFO: app]: MySQL database connection established.
+[2024-06-14 22:40:35,948: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:40:35,948: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:40:35,954: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:40:35,955: INFO: app]: MySQL database connection established.
+[2024-06-14 22:40:35,955: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:40:44,976: INFO: app]: MySQL database connection established.
+[2024-06-14 22:40:44,979: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:40:44,979: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:40:44,983: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:40:44,984: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:40:44,986: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-14 22:40:44,986: INFO: app]: Face image loaded.
+[2024-06-14 22:40:44,987: ERROR: app]: No face image uploaded.
+[2024-06-14 22:40:53,993: INFO: app]: MySQL database connection established.
+[2024-06-14 22:40:53,993: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:40:53,997: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:40:53,998: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:40:54,001: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:41:16,849: INFO: app]: MySQL database connection established.
+[2024-06-14 22:41:16,849: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:41:16,854: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:41:16,856: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:41:16,856: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:41:16,856: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-14 22:41:16,856: INFO: app]: Face image loaded.
+[2024-06-14 22:41:16,856: ERROR: app]: No face image uploaded.
+[2024-06-14 22:41:28,091: INFO: app]: MySQL database connection established.
+[2024-06-14 22:41:28,093: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:41:28,093: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:41:28,095: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:41:28,095: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:41:28,099: INFO: preprocess]: Error reading image: module 'numpy' has no attribute 'unit8'
+[2024-06-14 22:41:28,099: INFO: app]: Face image loaded.
+[2024-06-14 22:41:28,099: ERROR: app]: No face image uploaded.
+[2024-06-14 22:42:19,164: INFO: app]: MySQL database connection established.
+[2024-06-14 22:42:19,169: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:42:19,169: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:42:19,173: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:42:19,175: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:43:24,922: INFO: app]: MySQL database connection established.
+[2024-06-14 22:43:24,924: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:43:24,924: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:43:24,928: INFO: app]: ID card type selected:  
+[2024-06-14 22:45:01,906: INFO: app]: MySQL database connection established.
+[2024-06-14 22:45:01,907: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:45:01,908: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:45:01,911: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:45:01,911: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:45:28,443: INFO: app]: MySQL database connection established.
+[2024-06-14 22:45:28,443: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:45:28,446: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:45:28,446: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:45:28,446: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:45:28,451: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-14 22:45:28,451: INFO: app]: Face image loaded.
+[2024-06-14 22:45:28,451: ERROR: app]: No face image uploaded.
+[2024-06-14 22:45:45,669: INFO: app]: MySQL database connection established.
+[2024-06-14 22:45:45,673: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:45:45,673: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:45:45,676: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:45:45,677: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:47:49,306: INFO: app]: MySQL database connection established.
+[2024-06-14 22:47:49,310: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:47:49,310: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:47:49,313: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:47:49,316: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:47:49,318: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-14 22:47:49,318: INFO: app]: Face image loaded.
+[2024-06-14 22:47:49,321: ERROR: app]: No face image uploaded.
+[2024-06-14 22:47:55,020: INFO: app]: MySQL database connection established.
+[2024-06-14 22:47:55,020: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:47:55,022: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:47:55,024: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:47:55,027: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:47:55,028: INFO: preprocess]: Error reading image: module 'numpy' has no attribute 'unit8'
+[2024-06-14 22:47:55,028: INFO: app]: Face image loaded.
+[2024-06-14 22:47:55,028: ERROR: app]: No face image uploaded.
+[2024-06-14 22:48:19,564: INFO: app]: MySQL database connection established.
+[2024-06-14 22:48:19,566: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:48:19,566: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:48:19,566: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:48:19,566: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:48:19,574: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-14 22:48:19,574: INFO: app]: Face image loaded.
+[2024-06-14 22:48:19,574: ERROR: app]: No face image uploaded.
+[2024-06-14 22:48:24,783: INFO: app]: MySQL database connection established.
+[2024-06-14 22:48:24,784: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:48:24,785: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:48:24,788: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:48:24,789: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:48:24,791: INFO: preprocess]: Error reading image: module 'numpy' has no attribute 'unit8'
+[2024-06-14 22:48:24,793: INFO: app]: Face image loaded.
+[2024-06-14 22:48:24,794: ERROR: app]: No face image uploaded.
+[2024-06-14 22:48:52,543: INFO: app]: MySQL database connection established.
+[2024-06-14 22:48:52,545: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:48:52,545: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:48:52,545: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:48:52,549: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:48:52,552: INFO: preprocess]: Error reading image: module 'numpy' has no attribute 'unit8'
+[2024-06-14 22:48:52,552: INFO: app]: Face image loaded.
+[2024-06-14 22:48:52,552: ERROR: app]: No face image uploaded.
+[2024-06-14 22:52:11,034: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:52:11,046: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:52:11,067: INFO: app]: MySQL database connection established.
+[2024-06-14 22:52:11,067: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:52:11,067: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:52:11,073: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:52:11,073: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:52:21,863: INFO: app]: MySQL database connection established.
+[2024-06-14 22:52:21,863: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:52:21,871: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:52:21,875: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:52:21,876: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:52:21,878: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-14 22:52:21,880: INFO: app]: Face image loaded.
+[2024-06-14 22:52:21,880: ERROR: app]: No face image uploaded.
+[2024-06-14 22:52:27,252: INFO: app]: MySQL database connection established.
+[2024-06-14 22:52:27,256: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:52:27,257: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:52:27,261: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:52:27,261: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:52:27,264: INFO: preprocess]: Error reading image: module 'numpy' has no attribute 'unit8'
+[2024-06-14 22:52:27,267: INFO: app]: Face image loaded.
+[2024-06-14 22:52:27,268: ERROR: app]: No face image uploaded.
+[2024-06-14 22:53:41,905: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:53:41,909: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:53:41,932: INFO: app]: MySQL database connection established.
+[2024-06-14 22:53:41,932: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:53:41,938: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:53:41,942: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:53:41,944: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:53:53,296: INFO: app]: MySQL database connection established.
+[2024-06-14 22:53:53,297: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:53:53,298: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:53:53,301: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:53:53,301: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:53:53,301: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-14 22:53:53,306: INFO: app]: Face image loaded.
+[2024-06-14 22:53:53,306: ERROR: app]: No face image uploaded.
+[2024-06-14 22:53:59,393: INFO: app]: MySQL database connection established.
+[2024-06-14 22:53:59,400: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:53:59,402: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:53:59,402: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:53:59,405: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:53:59,408: INFO: preprocess]: Error reading image: module 'numpy' has no attribute 'unit8'
+[2024-06-14 22:53:59,408: INFO: app]: Face image loaded.
+[2024-06-14 22:53:59,408: ERROR: app]: No face image uploaded.
+[2024-06-14 22:54:42,679: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:54:58,994: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-14 22:54:59,675: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 22:54:59,694: INFO: app]: MySQL database connection established.
+[2024-06-14 22:54:59,694: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:54:59,694: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:54:59,704: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:54:59,706: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:55:13,737: INFO: app]: MySQL database connection established.
+[2024-06-14 22:55:13,739: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:55:13,740: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:55:13,742: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:55:13,743: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:55:13,744: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-14 22:55:13,745: INFO: app]: Face image loaded.
+[2024-06-14 22:55:13,745: ERROR: app]: No face image uploaded.
+[2024-06-14 22:55:19,305: INFO: app]: MySQL database connection established.
+[2024-06-14 22:55:19,306: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 22:55:19,307: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 22:55:19,307: INFO: app]: ID card type selected: PAN
+[2024-06-14 22:55:19,307: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 22:55:19,312: INFO: preprocess]: Error reading image: module 'numpy' has no attribute 'unit8'
+[2024-06-14 22:55:19,313: INFO: app]: Face image loaded.
+[2024-06-14 22:55:19,314: ERROR: app]: No face image uploaded.
+[2024-06-14 23:00:54,099: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 23:01:09,994: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-14 23:01:10,645: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 23:01:10,667: INFO: app]: MySQL database connection established.
+[2024-06-14 23:01:10,672: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:01:10,672: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:01:10,676: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:01:10,678: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:01:20,267: INFO: app]: MySQL database connection established.
+[2024-06-14 23:01:20,267: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:01:20,267: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:01:20,271: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:01:20,271: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:01:20,321: INFO: app]: ID card image loaded.
+[2024-06-14 23:01:20,321: ERROR: app]: No face image uploaded.
+[2024-06-14 23:01:25,746: INFO: app]: MySQL database connection established.
+[2024-06-14 23:01:25,753: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:01:25,753: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:01:25,753: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:01:25,753: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:01:25,764: INFO: app]: ID card image loaded.
+[2024-06-14 23:01:25,800: INFO: app]: Face image loaded.
+[2024-06-14 23:01:25,832: ERROR: app]: Error reading image: 'NoneType' object has no attribute 'any'
+[2024-06-14 23:03:48,794: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 23:03:48,803: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 23:03:48,819: INFO: app]: MySQL database connection established.
+[2024-06-14 23:03:48,821: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:03:48,821: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:03:48,823: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:03:48,823: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:03:58,489: INFO: app]: MySQL database connection established.
+[2024-06-14 23:03:58,489: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:03:58,489: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:03:58,496: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:03:58,496: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:03:58,504: INFO: app]: ID card image loaded.
+[2024-06-14 23:03:58,504: ERROR: app]: No face image uploaded.
+[2024-06-14 23:04:03,606: INFO: app]: MySQL database connection established.
+[2024-06-14 23:04:03,606: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:04:03,606: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:04:03,615: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:04:03,615: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:04:03,624: INFO: app]: ID card image loaded.
+[2024-06-14 23:04:03,624: INFO: app]: Face image loaded.
+[2024-06-14 23:04:45,640: INFO: app]: MySQL database connection established.
+[2024-06-14 23:04:45,640: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:04:45,640: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:04:45,645: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:04:45,646: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:04:45,652: INFO: app]: ID card image loaded.
+[2024-06-14 23:04:45,655: INFO: app]: Face image loaded.
+[2024-06-14 23:04:50,056: INFO: app]: MySQL database connection established.
+[2024-06-14 23:04:50,059: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:04:50,059: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:04:50,063: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:04:50,064: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:05:00,379: INFO: app]: MySQL database connection established.
+[2024-06-14 23:05:00,379: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:05:00,379: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:05:00,379: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:05:00,379: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:05:00,395: INFO: app]: ID card image loaded.
+[2024-06-14 23:05:00,395: ERROR: app]: No face image uploaded.
+[2024-06-14 23:05:05,424: INFO: app]: MySQL database connection established.
+[2024-06-14 23:05:05,426: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:05:05,427: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:05:05,429: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:05:05,429: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:05:05,436: INFO: app]: ID card image loaded.
+[2024-06-14 23:05:05,441: INFO: app]: Face image loaded.
+[2024-06-14 23:05:48,075: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 23:05:48,082: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 23:05:48,101: INFO: app]: MySQL database connection established.
+[2024-06-14 23:05:48,101: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:05:48,104: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:05:48,105: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:05:48,107: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:06:01,293: INFO: app]: MySQL database connection established.
+[2024-06-14 23:06:01,295: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:06:01,295: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:06:01,295: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:06:01,299: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:06:01,305: INFO: app]: ID card image loaded.
+[2024-06-14 23:06:01,309: ERROR: app]: No face image uploaded.
+[2024-06-14 23:06:05,939: INFO: app]: MySQL database connection established.
+[2024-06-14 23:06:05,947: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:06:05,947: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:06:05,951: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:06:05,951: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:06:05,956: INFO: app]: ID card image loaded.
+[2024-06-14 23:06:05,959: INFO: app]: Face image loaded.
+[2024-06-14 23:08:14,260: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 23:08:14,273: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 23:08:14,285: INFO: app]: MySQL database connection established.
+[2024-06-14 23:08:14,285: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:08:14,292: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:08:14,292: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:08:14,294: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:08:29,373: INFO: app]: MySQL database connection established.
+[2024-06-14 23:08:29,373: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:08:29,378: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:08:29,378: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:08:29,378: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:08:29,386: INFO: app]: ID card image loaded.
+[2024-06-14 23:08:29,386: ERROR: app]: No face image uploaded.
+[2024-06-14 23:08:36,926: INFO: app]: MySQL database connection established.
+[2024-06-14 23:08:36,926: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:08:36,926: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:08:36,929: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:08:36,929: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:08:36,937: INFO: app]: ID card image loaded.
+[2024-06-14 23:08:36,939: INFO: app]: Face image loaded.
+[2024-06-14 23:08:36,945: ERROR: app]: Error reading image: 'NoneType' object has no attribute 'any'
+[2024-06-14 23:12:59,756: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 23:12:59,758: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-14 23:12:59,776: INFO: app]: MySQL database connection established.
+[2024-06-14 23:12:59,778: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:12:59,781: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:12:59,783: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:12:59,783: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:13:09,606: INFO: app]: MySQL database connection established.
+[2024-06-14 23:13:09,614: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:13:09,614: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:13:09,614: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:13:09,618: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:13:09,618: INFO: app]: ID card image loaded.
+[2024-06-14 23:13:09,618: ERROR: app]: No face image uploaded.
+[2024-06-14 23:13:15,303: INFO: app]: MySQL database connection established.
+[2024-06-14 23:13:15,306: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:13:15,307: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:13:15,309: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:13:15,309: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:13:15,316: INFO: app]: ID card image loaded.
+[2024-06-14 23:13:15,321: INFO: app]: Face image loaded.
+[2024-06-14 23:13:15,326: ERROR: app]: Error reading image: 'NoneType' object has no attribute 'any'
+[2024-06-14 23:17:17,485: INFO: app]: MySQL database connection established.
+[2024-06-14 23:17:17,487: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:17:17,490: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:17:17,491: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:17:17,492: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:17:17,499: INFO: app]: ID card image loaded.
+[2024-06-14 23:17:17,504: INFO: app]: Face image loaded.
+[2024-06-14 23:17:17,508: ERROR: app]: Error reading image: 'NoneType' object has no attribute 'any'
+[2024-06-14 23:20:46,805: INFO: app]: MySQL database connection established.
+[2024-06-14 23:20:46,805: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:20:46,809: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:20:46,809: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:20:46,809: INFO: app]: Header set for PAN Card registration.
+[2024-06-14 23:20:46,820: INFO: app]: ID card image loaded.
+[2024-06-14 23:20:46,820: ERROR: app]: No face image uploaded.
+[2024-06-14 23:20:51,456: INFO: app]: MySQL database connection established.
+[2024-06-14 23:20:51,460: INFO: app]: Page layout set to wider configuration.
+[2024-06-14 23:20:51,460: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-14 23:20:51,463: INFO: app]: ID card type selected: PAN
+[2024-06-14 23:20:51,463: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 15:18:04,192: INFO: app]: MySQL database connection established.
+[2024-06-15 15:18:04,192: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 15:18:04,192: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 15:18:04,192: INFO: app]: ID card type selected: PAN
+[2024-06-15 15:18:04,192: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 15:43:18,866: INFO: app]: MySQL database connection established.
+[2024-06-15 15:43:18,868: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 15:43:18,868: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 15:43:18,870: INFO: app]: ID card type selected: PAN
+[2024-06-15 15:43:18,870: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 15:43:18,877: INFO: app]: ID card image loaded.
+[2024-06-15 15:43:18,877: ERROR: app]: No face image uploaded.
+[2024-06-15 15:43:23,908: INFO: app]: MySQL database connection established.
+[2024-06-15 15:43:23,908: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 15:43:23,908: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 15:43:23,908: INFO: app]: ID card type selected: PAN
+[2024-06-15 15:43:23,908: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 15:43:23,920: INFO: app]: ID card image loaded.
+[2024-06-15 15:43:23,941: INFO: app]: Face image loaded.
+[2024-06-15 15:43:23,949: ERROR: app]: Error reading image: 'NoneType' object has no attribute 'any'
+[2024-06-15 15:45:14,741: INFO: app]: MySQL database connection established.
+[2024-06-15 15:45:14,747: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 15:45:14,747: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 15:45:14,750: INFO: app]: ID card type selected: PAN
+[2024-06-15 15:45:14,750: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 15:45:27,106: INFO: app]: MySQL database connection established.
+[2024-06-15 15:45:27,106: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 15:45:27,106: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 15:45:27,106: INFO: app]: ID card type selected: PAN
+[2024-06-15 15:45:27,113: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 15:45:27,119: INFO: app]: ID card image loaded.
+[2024-06-15 15:45:27,119: ERROR: app]: No face image uploaded.
+[2024-06-15 15:45:32,056: INFO: app]: MySQL database connection established.
+[2024-06-15 15:45:32,057: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 15:45:32,058: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 15:45:32,058: INFO: app]: ID card type selected: PAN
+[2024-06-15 15:45:32,059: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 15:45:32,064: INFO: app]: ID card image loaded.
+[2024-06-15 15:45:32,064: INFO: app]: Face image loaded.
+[2024-06-15 15:45:32,073: ERROR: app]: Error reading image: 'NoneType' object has no attribute 'any'
+[2024-06-15 17:43:53,763: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-15 17:44:21,319: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-15 17:44:22,689: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-15 17:44:22,742: INFO: app]: MySQL database connection established.
+[2024-06-15 17:44:22,759: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 17:44:22,760: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 17:44:22,762: INFO: app]: ID card type selected: PAN
+[2024-06-15 17:44:22,762: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:10:39,241: INFO: app]: MySQL database connection established.
+[2024-06-15 18:10:39,242: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:10:39,242: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:10:39,243: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:10:39,243: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:10:39,261: INFO: app]: ID card image loaded.
+[2024-06-15 18:10:39,262: ERROR: app]: No face image uploaded.
+[2024-06-15 18:10:46,117: INFO: app]: MySQL database connection established.
+[2024-06-15 18:10:46,118: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:10:46,119: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:10:46,120: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:10:46,121: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:10:46,140: INFO: app]: ID card image loaded.
+[2024-06-15 18:10:46,143: INFO: app]: Face image loaded.
+[2024-06-15 18:10:46,159: ERROR: app]: Error reading image: 'NoneType' object has no attribute 'any'
+[2024-06-15 18:13:25,667: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-15 18:13:40,182: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-15 18:13:40,948: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-15 18:13:40,982: INFO: app]: MySQL database connection established.
+[2024-06-15 18:13:40,987: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:13:40,987: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:13:40,992: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:13:40,992: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:13:50,566: INFO: app]: MySQL database connection established.
+[2024-06-15 18:13:50,566: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:13:50,567: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:13:50,568: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:13:50,569: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:13:50,570: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 18:13:50,570: INFO: app]: Face image loaded.
+[2024-06-15 18:13:50,570: ERROR: app]: No face image uploaded.
+[2024-06-15 18:13:56,675: INFO: app]: MySQL database connection established.
+[2024-06-15 18:13:56,676: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:13:56,677: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:13:56,678: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:13:56,679: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:13:56,681: INFO: preprocess]: Error reading image: module 'numpy' has no attribute 'unit8'
+[2024-06-15 18:13:56,681: INFO: app]: Face image loaded.
+[2024-06-15 18:13:56,682: ERROR: app]: No face image uploaded.
+[2024-06-15 18:20:49,453: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-15 18:20:49,463: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-15 18:20:49,472: INFO: app]: MySQL database connection established.
+[2024-06-15 18:20:49,474: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:20:49,474: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:20:49,475: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:20:49,476: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:20:58,910: INFO: app]: MySQL database connection established.
+[2024-06-15 18:20:58,911: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:20:58,912: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:20:58,913: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:20:58,913: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:20:58,914: INFO: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 18:20:58,914: INFO: app]: Face image loaded.
+[2024-06-15 18:20:58,915: ERROR: app]: No face image uploaded.
+[2024-06-15 18:21:06,253: INFO: app]: MySQL database connection established.
+[2024-06-15 18:21:06,253: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:21:06,253: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:21:06,253: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:21:06,253: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:21:06,264: INFO: preprocess]: Error reading image: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+[2024-06-15 18:21:06,265: INFO: app]: Face image loaded.
+[2024-06-15 18:21:06,266: ERROR: app]: No face image uploaded.
+[2024-06-15 18:23:06,736: INFO: app]: MySQL database connection established.
+[2024-06-15 18:23:06,736: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:23:06,750: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:23:06,751: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:23:06,752: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:23:06,753: INFO: preprocess]: Error reading image: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'imread'
+> Overload resolution failed:
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+>  - Expected 'filename' to be a str or path-like object
+
+[2024-06-15 18:23:06,754: INFO: app]: Face image loaded.
+[2024-06-15 18:23:06,754: ERROR: app]: No face image uploaded.
+[2024-06-15 18:27:30,697: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-15 18:27:43,538: WARNING: module_wrapper]: From C:\Users\skaur\AppData\Local\Programs\Python\Python312\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+[2024-06-15 18:27:44,122: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-15 18:27:44,153: INFO: app]: MySQL database connection established.
+[2024-06-15 18:27:44,156: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:27:44,156: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:27:44,156: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:27:44,163: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:27:56,824: INFO: app]: MySQL database connection established.
+[2024-06-15 18:27:56,824: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:27:56,824: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:27:56,824: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:27:56,824: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:27:56,824: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 18:27:56,824: INFO: app]: Face image loaded.
+[2024-06-15 18:27:56,824: ERROR: app]: No face image uploaded.
+[2024-06-15 18:28:02,795: INFO: app]: MySQL database connection established.
+[2024-06-15 18:28:02,796: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:28:02,797: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:28:02,798: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:28:02,798: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:28:02,804: INFO: app]: Face image loaded.
+[2024-06-15 18:28:02,822: INFO: app]: ID card image loaded.
+[2024-06-15 18:28:02,834: INFO: preprocess]: Contours found at (0, 0, 900, 1600)
+[2024-06-15 18:28:02,846: INFO: app]: ID card ROI extracted.
+[2024-06-15 18:35:17,551: INFO: app]: MySQL database connection established.
+[2024-06-15 18:35:17,552: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:35:17,553: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:35:17,553: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:35:17,554: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:35:24,926: INFO: app]: MySQL database connection established.
+[2024-06-15 18:35:24,926: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:35:24,927: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:35:24,928: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:35:24,929: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:35:24,930: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 18:35:24,930: INFO: app]: Face image loaded.
+[2024-06-15 18:35:24,931: ERROR: app]: No face image uploaded.
+[2024-06-15 18:35:30,465: INFO: app]: MySQL database connection established.
+[2024-06-15 18:35:30,471: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:35:30,472: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:35:30,473: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:35:30,474: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:35:30,478: INFO: app]: Face image loaded.
+[2024-06-15 18:35:30,493: INFO: app]: ID card image loaded.
+[2024-06-15 18:35:30,503: INFO: preprocess]: Contours found at (0, 0, 900, 1600)
+[2024-06-15 18:35:30,508: INFO: app]: ID card ROI extracted.
+[2024-06-15 18:38:06,817: INFO: app]: MySQL database connection established.
+[2024-06-15 18:38:06,818: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:38:06,819: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:38:06,820: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:38:06,821: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:38:16,563: INFO: app]: MySQL database connection established.
+[2024-06-15 18:38:16,563: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:38:16,564: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:38:16,565: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:38:16,566: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:38:16,567: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 18:38:16,567: INFO: app]: Face image loaded.
+[2024-06-15 18:38:16,568: ERROR: app]: No face image uploaded.
+[2024-06-15 18:38:21,985: INFO: app]: MySQL database connection established.
+[2024-06-15 18:38:21,986: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:38:21,987: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:38:21,989: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:38:21,989: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:38:21,993: INFO: app]: Face image loaded.
+[2024-06-15 18:38:22,011: INFO: app]: ID card image loaded.
+[2024-06-15 18:38:22,023: INFO: preprocess]: Contours found at (0, 0, 900, 1600)
+[2024-06-15 18:38:22,028: INFO: app]: ID card ROI extracted.
+[2024-06-15 18:40:09,915: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-15 18:40:09,925: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-15 18:40:09,934: INFO: app]: MySQL database connection established.
+[2024-06-15 18:40:09,934: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:40:09,935: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:40:09,936: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:40:09,937: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:40:16,578: INFO: app]: MySQL database connection established.
+[2024-06-15 18:40:16,579: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:40:16,579: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:40:16,581: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:40:16,582: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:40:16,583: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 18:40:16,583: INFO: app]: Face image loaded.
+[2024-06-15 18:40:16,584: ERROR: app]: No face image uploaded.
+[2024-06-15 18:40:21,434: INFO: app]: MySQL database connection established.
+[2024-06-15 18:40:21,434: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:40:21,436: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:40:21,438: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:40:21,438: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:40:21,442: INFO: app]: Face image loaded.
+[2024-06-15 18:40:21,457: INFO: app]: ID card image loaded.
+[2024-06-15 18:40:21,467: INFO: preprocess]: Contours found at (0, 0, 900, 1600)
+[2024-06-15 18:40:21,472: INFO: app]: ID card ROI extracted.
+[2024-06-15 18:40:21,480: ERROR: face_verification]: Error detecting and extracting face: Failed to load Haar cascade XML file from path: haarcascade_frontface_default.xml
+[2024-06-15 18:40:21,480: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-15 18:40:21,480: INFO: app]: Faces extracted and saved.
+[2024-06-15 18:40:21,480: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-06-15 18:40:45,283: INFO: app]: MySQL database connection established.
+[2024-06-15 18:40:45,287: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:40:45,287: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:40:45,288: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:40:45,289: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:40:45,289: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 18:40:45,290: INFO: app]: Face image loaded.
+[2024-06-15 18:40:45,290: ERROR: app]: No face image uploaded.
+[2024-06-15 18:40:59,924: INFO: app]: MySQL database connection established.
+[2024-06-15 18:40:59,926: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 18:40:59,940: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 18:40:59,956: INFO: app]: ID card type selected: PAN
+[2024-06-15 18:40:59,965: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 18:40:59,973: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 18:40:59,981: INFO: app]: Face image loaded.
+[2024-06-15 18:40:59,981: ERROR: app]: No face image uploaded.
+[2024-06-15 20:44:26,699: INFO: app]: MySQL database connection established.
+[2024-06-15 20:44:26,701: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 20:44:26,702: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 20:44:26,704: INFO: app]: ID card type selected: PAN
+[2024-06-15 20:44:26,705: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:09:35,334: INFO: app]: MySQL database connection established.
+[2024-06-15 21:09:35,335: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:09:35,335: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:09:35,341: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:09:35,343: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:23:02,802: INFO: app]: MySQL database connection established.
+[2024-06-15 21:23:02,802: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:23:02,802: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:23:02,811: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:23:02,812: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:23:02,812: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 21:23:02,812: INFO: app]: Face image loaded.
+[2024-06-15 21:23:02,815: ERROR: app]: No face image uploaded.
+[2024-06-15 21:23:08,446: INFO: app]: MySQL database connection established.
+[2024-06-15 21:23:08,453: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:23:08,453: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:23:08,457: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:23:08,459: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:23:08,463: INFO: app]: Face image loaded.
+[2024-06-15 21:23:08,495: INFO: app]: ID card image loaded.
+[2024-06-15 21:23:08,515: INFO: preprocess]: Contours found at (0, 0, 900, 1600)
+[2024-06-15 21:23:08,524: INFO: app]: ID card ROI extracted.
+[2024-06-15 21:23:08,530: ERROR: face_verification]: Error detecting and extracting face: Failed to load Haar cascade XML file from path: haarcascade_frontface_default.xml
+[2024-06-15 21:23:08,533: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-06-15 21:23:08,541: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-15 21:23:08,541: INFO: app]: Faces extracted and saved.
+[2024-06-15 21:23:08,543: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-06-15 21:39:50,756: INFO: app]: MySQL database connection established.
+[2024-06-15 21:39:50,757: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:39:50,759: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:39:50,762: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:39:50,762: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:40:02,772: INFO: app]: MySQL database connection established.
+[2024-06-15 21:40:02,772: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:40:02,772: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:40:02,780: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:40:02,780: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:40:02,780: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 21:40:02,780: INFO: app]: Face image loaded.
+[2024-06-15 21:40:02,780: ERROR: app]: No face image uploaded.
+[2024-06-15 21:40:08,205: INFO: app]: MySQL database connection established.
+[2024-06-15 21:40:08,205: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:40:08,205: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:40:08,215: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:40:08,215: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:40:08,222: INFO: app]: Face image loaded.
+[2024-06-15 21:40:08,254: INFO: app]: ID card image loaded.
+[2024-06-15 21:40:08,275: INFO: preprocess]: Contours found at (0, 0, 900, 1600)
+[2024-06-15 21:40:08,283: INFO: app]: ID card ROI extracted.
+[2024-06-15 21:40:08,290: ERROR: face_verification]: Error detecting and extracting face: Failed to load Haar cascade XML file from path: haarcascade_frontface_default.xml
+[2024-06-15 21:40:08,296: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-15 21:40:08,296: INFO: app]: Faces extracted and saved.
+[2024-06-15 21:40:08,296: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-06-15 21:48:57,296: INFO: app]: MySQL database connection established.
+[2024-06-15 21:48:57,296: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:48:57,296: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:48:57,296: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:48:57,300: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:49:08,304: INFO: app]: MySQL database connection established.
+[2024-06-15 21:49:08,304: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:49:08,304: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:49:08,304: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:49:08,309: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:49:08,309: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 21:49:08,311: INFO: app]: Face image loaded.
+[2024-06-15 21:49:08,311: ERROR: app]: No face image uploaded.
+[2024-06-15 21:49:13,740: INFO: app]: MySQL database connection established.
+[2024-06-15 21:49:13,748: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:49:13,748: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:49:13,748: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:49:13,748: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:49:13,756: INFO: app]: Face image loaded.
+[2024-06-15 21:49:13,789: INFO: app]: ID card image loaded.
+[2024-06-15 21:49:13,805: INFO: preprocess]: Contours found at (0, 0, 900, 1600)
+[2024-06-15 21:49:13,817: INFO: app]: ID card ROI extracted.
+[2024-06-15 21:49:13,826: ERROR: face_verification]: Error detecting and extracting face: Failed to load Haar cascade XML file from path: haarcascade_frontface_default.xml
+[2024-06-15 21:49:13,829: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-06-15 21:49:13,837: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-15 21:49:13,837: INFO: app]: Faces extracted and saved.
+[2024-06-15 21:49:13,837: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-06-15 21:50:16,946: INFO: app]: MySQL database connection established.
+[2024-06-15 21:50:16,946: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:50:16,949: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:50:16,949: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:50:16,951: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:50:26,235: INFO: app]: MySQL database connection established.
+[2024-06-15 21:50:26,237: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:50:26,237: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:50:26,239: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:50:26,239: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:50:26,241: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 21:50:26,241: INFO: app]: Face image loaded.
+[2024-06-15 21:50:26,241: ERROR: app]: No face image uploaded.
+[2024-06-15 21:50:31,568: INFO: app]: MySQL database connection established.
+[2024-06-15 21:50:31,568: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:50:31,568: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:50:31,574: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:50:31,574: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:50:31,576: INFO: app]: Face image loaded.
+[2024-06-15 21:50:31,590: INFO: app]: ID card image loaded.
+[2024-06-15 21:50:31,594: INFO: preprocess]: Contours found at (0, 0, 435, 287)
+[2024-06-15 21:50:31,603: INFO: app]: ID card ROI extracted.
+[2024-06-15 21:50:31,607: ERROR: face_verification]: Error detecting and extracting face: Failed to load Haar cascade XML file from path: haarcascade_frontface_default.xml
+[2024-06-15 21:50:31,607: INFO: preprocess]: Image saved successfully: data\02_intermediate_data\face_image.jpg
+[2024-06-15 21:50:31,607: INFO: app]: Faces extracted and saved.
+[2024-06-15 21:50:31,607: INFO: utils]: File exists for data\02_intermediate_data\face_image.jpg
+[2024-06-15 21:51:19,215: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-15 21:51:19,223: INFO: utils]: yaml file: config.yaml loaded successfully
+[2024-06-15 21:51:19,245: INFO: app]: MySQL database connection established.
+[2024-06-15 21:51:19,245: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:51:19,245: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:51:19,245: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:51:19,245: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:51:36,992: INFO: app]: MySQL database connection established.
+[2024-06-15 21:51:36,992: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:51:36,992: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:51:36,992: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:51:36,992: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:51:36,992: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 21:51:36,999: INFO: app]: Face image loaded.
+[2024-06-15 21:51:36,999: ERROR: app]: No face image uploaded.
+[2024-06-15 21:51:43,538: INFO: app]: MySQL database connection established.
+[2024-06-15 21:51:43,545: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:51:43,545: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:51:43,548: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:51:43,548: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:51:43,552: INFO: app]: Face image loaded.
+[2024-06-15 21:51:43,554: INFO: app]: ID card image loaded.
+[2024-06-15 21:51:43,562: INFO: preprocess]: Contours found at (0, 0, 435, 287)
+[2024-06-15 21:51:43,573: INFO: app]: ID card ROI extracted.
+[2024-06-15 21:51:43,579: ERROR: face_verification]: Error detecting and extracting face: Failed to load Haar cascade XML file from path: haarcascade_frontface_default.xml
+[2024-06-15 21:51:43,581: ERROR: app]: Failed to detect and extract face from ID card.
+[2024-06-15 21:51:57,168: INFO: app]: MySQL database connection established.
+[2024-06-15 21:51:57,169: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:51:57,169: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:51:57,169: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:51:57,169: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:51:57,180: INFO: app]: Face image loaded.
+[2024-06-15 21:51:57,206: INFO: app]: ID card image loaded.
+[2024-06-15 21:51:57,219: INFO: preprocess]: Contours found at (0, 0, 900, 1600)
+[2024-06-15 21:51:57,219: INFO: utils]: File exists for C:\Users\skaur\Computer Vision\data\02_intermediate_data\contour_id.jpg
+[2024-06-15 21:51:57,256: INFO: app]: ID card ROI extracted.
+[2024-06-15 21:51:57,269: ERROR: face_verification]: Error detecting and extracting face: Failed to load Haar cascade XML file from path: haarcascade_frontface_default.xml
+[2024-06-15 21:51:57,271: ERROR: app]: Failed to detect and extract face from ID card.
+[2024-06-15 21:52:02,531: INFO: app]: MySQL database connection established.
+[2024-06-15 21:52:02,531: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:52:02,531: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:52:02,539: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:52:02,539: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:52:02,539: INFO: app]: Face image loaded.
+[2024-06-15 21:52:02,566: INFO: app]: ID card image loaded.
+[2024-06-15 21:52:02,587: INFO: preprocess]: Contours found at (0, 0, 900, 1600)
+[2024-06-15 21:52:02,587: INFO: utils]: File exists for C:\Users\skaur\Computer Vision\data\02_intermediate_data\contour_id.jpg
+[2024-06-15 21:52:02,643: INFO: app]: ID card ROI extracted.
+[2024-06-15 21:52:02,650: ERROR: face_verification]: Error detecting and extracting face: Failed to load Haar cascade XML file from path: haarcascade_frontface_default.xml
+[2024-06-15 21:52:02,656: ERROR: app]: Failed to detect and extract face from ID card.
+[2024-06-15 21:52:07,405: INFO: app]: MySQL database connection established.
+[2024-06-15 21:52:07,405: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:52:07,409: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:52:07,411: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:52:07,411: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:52:16,385: INFO: app]: MySQL database connection established.
+[2024-06-15 21:52:16,385: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:52:16,389: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:52:16,389: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:52:16,389: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:52:16,389: ERROR: preprocess]: Error reading image: 'NoneType' object has no attribute 'read'
+[2024-06-15 21:52:16,389: INFO: app]: Face image loaded.
+[2024-06-15 21:52:16,389: ERROR: app]: No face image uploaded.
+[2024-06-15 21:52:21,881: INFO: app]: MySQL database connection established.
+[2024-06-15 21:52:21,881: INFO: app]: Page layout set to wider configuration.
+[2024-06-15 21:52:21,881: INFO: app]: Custom theme applied to Streamlit app.
+[2024-06-15 21:52:21,881: INFO: app]: ID card type selected: PAN
+[2024-06-15 21:52:21,881: INFO: app]: Header set for PAN Card registration.
+[2024-06-15 21:52:21,881: INFO: app]: Face image loaded.
+[2024-06-15 21:52:21,930: INFO: app]: ID card image loaded.
+[2024-06-15 21:52:21,949: INFO: preprocess]: Contours found at (0, 0, 900, 1600)
+[2024-06-15 21:52:21,949: INFO: utils]: File exists for C:\Users\skaur\Computer Vision\data\02_intermediate_data\contour_id.jpg
+[2024-06-15 21:52:21,985: INFO: app]: ID card ROI extracted.
+[2024-06-15 21:52:21,996: ERROR: face_verification]: Error detecting and extracting face: Failed to load Haar cascade XML file from path: haarcascade_frontface_default.xml
+[2024-06-15 21:52:21,996: ERROR: app]: Failed to detect and extract face from ID card.
